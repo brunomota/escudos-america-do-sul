@@ -380,30 +380,30 @@ button.btn.btn-mini,input[type="submit"].btn.btn-mini{*padding-top:1px;*padding-
 .btn-link[disabled]:hover,.btn-link[disabled]:focus{color:#333333;text-decoration:none;}
 [class^="icon-"],[class*=" icon-"]{display:inline-block;width:40px;height:40px;*margin-right:.3em;line-height:40px;vertical-align:text-top;background-image:url("../images/brasaoBrasil.png");background-position:40px 40px;background-repeat:no-repeat;margin-top:1px;}
 .icon-white,.nav-pills>.active>a>[class^="icon-"],.nav-pills>.active>a>[class*=" icon-"],.nav-list>.active>a>[class^="icon-"],.nav-list>.active>a>[class*=" icon-"],.navbar-inverse .nav>.active>a>[class^="icon-"],.navbar-inverse .nav>.active>a>[class*=" icon-"],.dropdown-menu>li>a:hover>[class^="icon-"],.dropdown-menu>li>a:focus>[class^="icon-"],.dropdown-menu>li>a:hover>[class*=" icon-"],.dropdown-menu>li>a:focus>[class*=" icon-"],.dropdown-menu>.active>a>[class^="icon-"],.dropdown-menu>.active>a>[class*=" icon-"],.dropdown-submenu:hover>a>[class^="icon-"],.dropdown-submenu:focus>a>[class^="icon-"],.dropdown-submenu:hover>a>[class*=" icon-"],.dropdown-submenu:focus>a>[class*=" icon-"]{background-image:url("../images/brasaoBrasilWhite.png");}
-.icon-atletico-mineiro{background-position:-8px -4px;}
-.icon-atletico-paranaense{background-position:-68px -4px;}
-.icon-avai{background-position:-126px -4px;}
-.icon-chapecoense{background-position:-184px -4px;}
+.icon-atletico-mineiro{background-position:-15px -6px;}
+.icon-atletico-paranaense{background-position:-72px -6px;}
+.icon-avai{background-position:-128px -6px;}
+.icon-chapecoense{background-position:-184px -7px;}
 
-.icon-corinthians{background-position:-8px -52px;}
-.icon-coritiba{background-position:-68px -52px;}
-.icon-cruzeiro{background-position:-126px -52px;}
+.icon-corinthians{background-position:-15px -52px;}
+.icon-coritiba{background-position:-72px -52px;}
+.icon-cruzeiro{background-position:-128px -52px;}
 .icon-figueirense{background-position:-184px -52px;}
 
-.icon-flamengo{background-position:-8px -100px;}
-.icon-fluminense{background-position:-68px -100px;}
-.icon-goias{background-position:-126px -100px;}
-.icon-gremio{background-position:-184px -100px;}
+.icon-flamengo{background-position:-15px -97px;}
+.icon-fluminense{background-position:-72px -97px;}
+.icon-goias{background-position:-128px -97px;}
+.icon-gremio{background-position:-184px -97px;}
 
-.icon-inter{background-position:-8px -148px;}
-.icon-joinville{background-position:-68px -148px;}
-.icon-palmeiras{background-position:-126px -148px;}
-.icon-ponte-preta{background-position:-184px -148px;}
+.icon-inter{background-position:-15px -143px;}
+.icon-joinville{background-position:-72px -143px;}
+.icon-palmeiras{background-position:-128px -143px;}
+.icon-ponte-preta{background-position:-184px -143px;}
 
-.icon-santos{background-position:-8px -198px;}
-.icon-sao-paulo{background-position:-68px -198px;}
-.icon-sport{background-position:-126px -198px;}
-.icon-vasco{background-position:-184px -198px;}
+.icon-santos{background-position:-15px -190px;}
+.icon-sao-paulo{background-position:-72px -190px;}
+.icon-sport{background-position:-128px -190px;}
+.icon-vasco{background-position:-184px -190px;}
 .btn-group{position:relative;display:inline-block;*display:inline;*zoom:1;font-size:0;vertical-align:middle;white-space:nowrap;*margin-left:.3em;}.btn-group:first-child{*margin-left:0;}
 .btn-group+.btn-group{margin-left:5px;}
 .btn-toolbar{font-size:0;margin-top:10px;margin-bottom:10px;}.btn-toolbar>.btn+.btn,.btn-toolbar>.btn-group+.btn,.btn-toolbar>.btn+.btn-group{margin-left:5px;}
